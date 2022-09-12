@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
- * Description: print value of a status; zero, positive or negative
+ * Description: using the main function
+ * this program prints "programming is positive, zero, or negative
  * Return: Always 0 (Success)
  */
 
