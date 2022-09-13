@@ -3,7 +3,6 @@
 #include <time.h>
 
 /**
- *
  * main - Program entry point
  *
  * Return: 0 Always (Success)
@@ -22,7 +21,6 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
 
 
